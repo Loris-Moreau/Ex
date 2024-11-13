@@ -8,11 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c245fb-cdd6-41ce-a954-57b3352d7b42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex/BinaryGap.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex/Ex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/Ex.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex/Ex.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/Ex.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Ex.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Ex.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711546082469</updated>
       <workItem from="1711546084554" duration="411000" />
-      <workItem from="1731513394598" duration="3013000" />
+      <workItem from="1731513394598" duration="3368000" />
     </task>
     <servers />
   </component>
