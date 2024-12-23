@@ -1,7 +1,7 @@
-﻿#include <algorithm>
+﻿#pragma once
+#include <algorithm>
 #include <climits>
 #include <cmath>
-#pragma once
 
 #include <numeric>
 #include <vector>
@@ -17,7 +17,7 @@ int tapeSolution(vector<int> &A)
     int leftSum = 0;
     int minDiff = INT_MAX; //Init with a large num
 
-    for (int i = 0; i < A.size() - 1; ++i)
+    for (int i = 0; i < (int)A.size() - 1; ++i)
     {
         leftSum += A[i];
         int rightSum = totalSum - leftSum;

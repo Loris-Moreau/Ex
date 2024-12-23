@@ -8,9 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c245fb-cdd6-41ce-a954-57b3352d7b42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex/Ex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/Ex.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/PermMissingElem.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/PermMissingElem.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex/TapeEquilibrium.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/TapeEquilibrium.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.exe.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.exe.recipe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/CL.command.1.tlog" afterDir="false" />
@@ -18,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/CL.write.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/Cl.items.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/Ex.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/Ex.lastbuildstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.command.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.read.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.secondary.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Ex/x64/Debug/Ex.tlog/link.write.1.tlog" afterDir="false" />
@@ -30,6 +29,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C++ Project.Ex.executor": "Run",
+    "C/C++ Project.Ex.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -131,6 +134,7 @@
       <workItem from="1711546084554" duration="411000" />
       <workItem from="1731513394598" duration="3368000" />
       <workItem from="1734971710469" duration="30000" />
+      <workItem from="1734971854374" duration="279000" />
     </task>
     <servers />
   </component>
