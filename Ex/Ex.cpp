@@ -25,5 +25,4 @@ int main(int argc, char* argv[])
     tapeSolution(D);
     
     tsp();
-    
 }
